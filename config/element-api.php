@@ -2,6 +2,7 @@
 
 use craft\elements\Entry;
 
+
 return [
     'endpoints' => [
         'blogs.json' => function () {
